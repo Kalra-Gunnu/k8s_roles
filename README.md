@@ -12,9 +12,9 @@ This project demonstrates how to deploy a Flask-based microservice in a Kubernet
 ├── Dockerfile # Image build file
 ├── finx-flask.yaml # Deployment and Service manifest
 ├── roles/ # Namespace, Role, RoleBinding, and ServiceAccount YAMLs
-│ ├── dev-role/
-│ ├── qa-clusterroles/
-│ └── prod-role/
+│ ├── dev-role.yaml/
+│ ├── qa-clusterroles.yaml/
+│ └── prod-role.yaml/
 └── README.md # You're here!
 ```
 
