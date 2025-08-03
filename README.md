@@ -6,6 +6,7 @@ This project demonstrates how to deploy a Flask-based microservice in a Kubernet
 
 ## 📁 Project Structure
 
+```
 .
 ├── app.py # Simple Flask app
 ├── Dockerfile # Image build file
@@ -15,6 +16,7 @@ This project demonstrates how to deploy a Flask-based microservice in a Kubernet
 │ ├── qa-clusterroles/
 │ └── prod-role/
 └── README.md # You're here!
+```
 
 ---
 
